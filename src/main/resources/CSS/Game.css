@@ -1,0 +1,16 @@
+.root {
+
+    -fx-background-image: url(../pics/backGround.png);
+    -fx-background-size: cover;
+}
+.label {
+    -fx-text-fill: #e51313;
+    -fx-background-size: 16;
+    -fx-font-weight: bold;
+}
+.button{
+    -fx-text-fill: black;
+    -fx-background-color: yellow;
+    -fx-text-alignment: center;
+    -fx-position-shape: relative;
+}
