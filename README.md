@@ -12,3 +12,8 @@ A simple snake game made with java and javaFX.
 1. Clone the repository
 2. Open the project in your favorite IDE
 3. Run the `SignUpAndLoginView.java` file in the `view` package
+
+## Pictures 
+<img width="468" alt="snake" src="https://github.com/amirR01/SnakeGame/assets/78862582/cd382649-7df2-4cd9-846c-d9d3ce198410">
+<img width="468" alt="snake" src="https://github.com/amirR01/SnakeGame/assets/78862582/eebf98b6-0253-4c8a-91f0-1125d2615da7">
+
